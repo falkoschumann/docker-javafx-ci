@@ -1,6 +1,6 @@
 # JavaFX CI
 
-Docker Image for running JavaFX GUI tests based on [Amazon Corretto][1]
+Docker Image for running JavaFX GUI tests based on [Amazon Corretto][1].
 
 ## Installation
 
